@@ -1,0 +1,11 @@
+{
+    "orgId": "2c3c9f9e-73d9-4460-a668-047162ff1bac",
+    "type": "mf.group",
+    "id": "15f78d30-4c03-4f98-8e01-8826a4fa6c8b",
+    "properties": {
+        "mf.convergedArchitecture": "false",
+        "mf.sharedCoreAllocation": "false",
+        "mf.useVmnOnOriginatingUser": "true",
+        "mf.videoMeshEnableCalliope": "false"
+    }
+}
